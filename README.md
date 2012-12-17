@@ -1,4 +1,4 @@
 manuales
 ========
 
-Te3xtos, manuales y otro material de formación
+Textos, manuales y otro material de formación
